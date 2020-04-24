@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr 18 14:01:18 2020
-
-@author: Gurpreet
 """
 
 # 2223 1299 6973 0708
